@@ -1,0 +1,1 @@
+In this project,I read the numbers from input file and construct a splay tree and mod-splay tree.Then I calculate the numbers of comparisions and rotations for each tree and compare the performance of these trees.
